@@ -94,3 +94,12 @@ sudo rstudio-server start
 
 sudo add-apt-repository ppa:marutter/rrutter4.0
 sudo apt update
+deb https://ppa.launchpadcontent.net/marutter/rrutter4.0/ubuntu jammy main 
+deb-src https://ppa.launchpadcontent.net/marutter/rrutter4.0/ubuntu jammy main 
+
+Signing key:
+    1024R/C9A7585B49D51698710F3A115E25F516B04C661B (What is this?) 
+Fingerprint:
+    C9A7585B49D51698710F3A115E25F516B04C661B
+
+For questions and bugs with software in this PPA please contact Michael Rutter.
