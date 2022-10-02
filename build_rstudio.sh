@@ -90,3 +90,7 @@ sudo apt-get autoremove -y
 sudo rstudio-server start
 
 # Go to localhost:8787
+
+
+sudo add-apt-repository ppa:marutter/rrutter4.0
+sudo apt update
